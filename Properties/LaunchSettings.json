@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AutoCAD": {
+      "commandName": "Executable",
+      "commandLineArgs": "",
+      "executablePath": "D:\\Autodesk\\AutoCAD 2026\\AutoCAD 2026\\acad.exe",
+      "workingDirectory": "C:\\Projects\\AutoCADSimplePlugin\\bin\\Debug\\net8.0-windows"
+    }
+  }
+}
